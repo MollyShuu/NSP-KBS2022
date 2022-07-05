@@ -1,4 +1,4 @@
-# Network structural perturbation against interlayer link prediction
+# Code and dataset for "Network structural perturbation against interlayer link prediction"
 
 ### We share the anonymous data and code of "Network structural perturbation against interlayer link prediction" here. 
 - ### Requirements
@@ -7,9 +7,9 @@
 
 - ### USAGE
 
-Run main.m firstly. 
-
-All the results are outputed into the folder of '.\results'. When the results of the 10 times for all datasets, pertrubation strategies, and interlayer link prediction algorithms are outputed, you can run plot_figure1.m to see the figures of them.
+1. Run main.m firstly. 
+2. All the results are outputed into the folder of '.\results'. 
+3. When the results of the 10 times for all datasets, pertrubation strategies, and interlayer link prediction algorithms are outputed, you can run plot_figure1.m to see the figures of them.
 
 - ### DATASETS 
 
