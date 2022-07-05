@@ -7,7 +7,9 @@
 
 - ### USAGE
 
-Run main.m firstly. All the results are outputed into the folder of '.\results'. When the results of the 10 times for all datasets, pertrubation strategies, and interlayer link prediction algorithms are outputed, you can run plot_figure1.m to see the figures of them.
+Run main.m firstly. 
+
+All the results are outputed into the folder of '.\results'. When the results of the 10 times for all datasets, pertrubation strategies, and interlayer link prediction algorithms are outputed, you can run plot_figure1.m to see the figures of them.
 
 - ### DATASETS 
 
